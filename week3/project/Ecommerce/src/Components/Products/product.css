@@ -1,0 +1,14 @@
+.image-container {
+  position: relative;
+}
+
+.heart-wrapper {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+.heart-icon {
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}
